@@ -1,0 +1,17 @@
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\WSECU Login Exercise.exe
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\obj\Debug\netcoreapp3.1\WSECU Login Exercise.AssemblyInfoInputs.cache
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\obj\Debug\netcoreapp3.1\WSECU Login Exercise.AssemblyInfo.cs
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\obj\Debug\netcoreapp3.1\WSECU Login Exercise.csproj.CopyComplete
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\obj\Debug\netcoreapp3.1\WSECU Login Exercise.csprojAssemblyReference.cache
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\obj\Debug\netcoreapp3.1\WSECU Login Exercise.csproj.CoreCompileInputs.cache
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\WSECU Login Exercise.deps.json
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\WSECU Login Exercise.runtimeconfig.json
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\WSECU Login Exercise.runtimeconfig.dev.json
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\WSECU Login Exercise.dll
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\WSECU Login Exercise.pdb
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\obj\Debug\netcoreapp3.1\WSECU Login Exercise.dll
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\obj\Debug\netcoreapp3.1\WSECU Login Exercise.pdb
+C:\Users\kevinri\source\repos\WSECU Login Exercise\WSECU Login Exercise\obj\Debug\netcoreapp3.1\WSECU Login Exercise.genruntimeconfig.cache
